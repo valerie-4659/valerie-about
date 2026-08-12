@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "updated": "2026-08-12",
+  "name": "Valerie",
+  "tagline": "made with love & passion 💕✨🌸",
+  "avatar": "https://raw.githubusercontent.com/valerie-4659/valerie-about/main/avatar.png",
+  "links": [
+    {
+      "label": "CivitAI",
+      "url": "https://civitai.com/user/valerie_4659"
+    },
+    {
+      "label": "itch.io",
+      "url": "https://valerie-4659.itch.io"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/valerie-4659"
+    }
+  ],
+  "apps": [
+    {
+      "name": "Crosspost Helper",
+      "summary": "Local-first image library and cross-posting helper for artists.",
+      "url": "https://github.com/valerie-4659/crossposthelper-app"
+    },
+    {
+      "name": "ArticleHelper",
+      "summary": "Write, organise and publish CivitAI articles and bounties.",
+      "url": "https://github.com/valerie-4659/articlehelper-app"
+    },
+    {
+      "name": "SD Metadata Migration Tool",
+      "summary": "Copy AI generation metadata from one image onto as many as you like.",
+      "url": "https://github.com/valerie-4659/metadatahelper-app"
+    },
+    {
+      "name": "Image Workflow Helper",
+      "summary": "Track AI image jobs from backlog to finished file.",
+      "url": "https://github.com/valerie-4659/imageworkflowhelper-app"
+    },
+    {
+      "name": "ArtQueue",
+      "summary": "Queue and bulk-download images, with AI folder sorting.",
+      "url": "https://github.com/valerie-4659/artqueue-app"
+    },
+    {
+      "name": "Civitai Bulk React + Save",
+      "summary": "React to and save many CivitAI images at once.",
+      "url": "https://github.com/valerie-4659/civitreactions-app"
+    },
+    {
+      "name": "XHelper",
+      "summary": "A reply assistant for X that never posts by itself.",
+      "url": "https://github.com/valerie-4659/xhelper-app"
+    }
+  ]
+}
