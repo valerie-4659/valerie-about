@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-12",
+  "updated": "2026-08-25",
   "name": "Valerie",
   "tagline": "made with love & passion 💕✨🌸",
   "avatar": "https://raw.githubusercontent.com/valerie-4659/valerie-about/main/avatar.png",
@@ -18,6 +18,10 @@
       "url": "https://x.com/valerie_4659"
     },
     {
+      "label": "App updates on X",
+      "url": "https://x.com/valeries_apps"
+    },
+    {
       "label": "itch.io",
       "url": "https://valerie-4659.itch.io"
     },
@@ -31,6 +35,11 @@
       "name": "Crosspost Helper",
       "summary": "Local-first image library and cross-posting helper for artists.",
       "url": "https://github.com/valerie-4659/crossposthelper-app"
+    },
+    {
+      "name": "Prompting Helper",
+      "summary": "Build, manage and reuse prompts for character-driven AI imagery.",
+      "url": "https://github.com/valerie-4659/promptinghelper-app"
     },
     {
       "name": "ArticleHelper",
@@ -53,9 +62,9 @@
       "url": "https://github.com/valerie-4659/artqueue-app"
     },
     {
-      "name": "Civitai Bulk React + Save",
+      "name": "Civit Helper",
       "summary": "React to and save many CivitAI images at once.",
-      "url": "https://github.com/valerie-4659/civitreactions-app"
+      "url": "https://github.com/valerie-4659/civithelper-app"
     },
     {
       "name": "XHelper",
